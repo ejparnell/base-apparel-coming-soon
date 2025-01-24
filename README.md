@@ -29,16 +29,16 @@ Desktop View:
 
 Error View:
 
-![Error View](./screenshots/error-desktop-screenshots.png)
+![Error View](./screenshots/error-desktop-screenshot.png)
 
 Mobile View:
 
-![Mobile View](./screenshots/mobile-screenshots.png)
+![Mobile View](./screenshots/mobile-screenshot.png)
 
 ### Links
 
-- Solution URL: [Repository Hosted on GitHub](https://your-solution-url.com)
-- Live Site URL: [Hosted on Netlify](https://your-live-site-url.com)
+- Solution URL: [Repository Hosted on GitHub](https://github.com/ejparnell/base-apparel-coming-soon)
+- Live Site URL: [Hosted on Netlify](https://base-apparel-coming-soon-bp.netlify.app/)
 
 ## My process
 
